@@ -14,6 +14,7 @@
 		BDD5E0802927B4FA00AA2C61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDD5E07F2927B4FA00AA2C61 /* Assets.xcassets */; };
 		BDD5E0832927B4FA00AA2C61 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDD5E0812927B4FA00AA2C61 /* LaunchScreen.storyboard */; };
 		BDEC1C90292B4F0F00EF007F /* 急速.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDEC1C8F292B4F0F00EF007F /* 急速.swift */; };
+		BDEC1C92292B4F2900EF007F /* 錢包.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDEC1C91292B4F2900EF007F /* 錢包.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BDD5E0822927B4FA00AA2C61 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BDD5E0842927B4FA00AA2C61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BDEC1C8F292B4F0F00EF007F /* 急速.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "急速.swift"; sourceTree = "<group>"; };
+		BDEC1C91292B4F2900EF007F /* 錢包.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "錢包.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				BDD5E0762927B4FA00AA2C61 /* AppDelegate.swift */,
 				BDD5E0782927B4FA00AA2C61 /* SceneDelegate.swift */,
 				BDD5E07A2927B4FA00AA2C61 /* ViewController.swift */,
+				BDEC1C91292B4F2900EF007F /* 錢包.swift */,
 				BDD5E07C2927B4FA00AA2C61 /* Main.storyboard */,
 				BDEC1C8F292B4F0F00EF007F /* 急速.swift */,
 				BDD5E07F2927B4FA00AA2C61 /* Assets.xcassets */,
@@ -143,6 +146,7 @@
 			files = (
 				BDD5E07B2927B4FA00AA2C61 /* ViewController.swift in Sources */,
 				BDD5E0772927B4FA00AA2C61 /* AppDelegate.swift in Sources */,
+				BDEC1C92292B4F2900EF007F /* 錢包.swift in Sources */,
 				BDD5E0792927B4FA00AA2C61 /* SceneDelegate.swift in Sources */,
 				BDEC1C90292B4F0F00EF007F /* 急速.swift in Sources */,
 			);
