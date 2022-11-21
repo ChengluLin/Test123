@@ -13,14 +13,6 @@
 		BDD5E07E2927B4FA00AA2C61 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDD5E07C2927B4FA00AA2C61 /* Main.storyboard */; };
 		BDD5E0802927B4FA00AA2C61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDD5E07F2927B4FA00AA2C61 /* Assets.xcassets */; };
 		BDD5E0832927B4FA00AA2C61 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDD5E0812927B4FA00AA2C61 /* LaunchScreen.storyboard */; };
-		BDD5E08D2927B87000AA2C61 /* bug2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD5E08C2927B87000AA2C61 /* bug2.swift */; };
-		BDD5E08F2927B95800AA2C61 /* momom.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD5E08E2927B95800AA2C61 /* momom.swift */; };
-		BDD5E0912927BA2800AA2C61 /* bugfix.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD5E0902927BA2800AA2C61 /* bugfix.swift */; };
-		BDD5E0932927BA6300AA2C61 /* dev5.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD5E0922927BA6300AA2C61 /* dev5.swift */; };
-		BDD5E0952927C58300AA2C61 /* dsfdf.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD5E0942927C58300AA2C61 /* dsfdf.swift */; };
-		BDD5E0972927C85600AA2C61 /* fsfseaf.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD5E0962927C85600AA2C61 /* fsfseaf.swift */; };
-		BDEC1C8A292B4CEF00EF007F /* 錢包.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDEC1C89292B4CEF00EF007F /* 錢包.swift */; };
-		BDEC1C88292B4CCE00EF007F /* 極速約單.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDEC1C87292B4CCE00EF007F /* 極速約單.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,14 +24,6 @@
 		BDD5E07F2927B4FA00AA2C61 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDD5E0822927B4FA00AA2C61 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BDD5E0842927B4FA00AA2C61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BDD5E08C2927B87000AA2C61 /* bug2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bug2.swift; sourceTree = "<group>"; };
-		BDD5E08E2927B95800AA2C61 /* momom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = momom.swift; sourceTree = "<group>"; };
-		BDD5E0902927BA2800AA2C61 /* bugfix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bugfix.swift; sourceTree = "<group>"; };
-		BDD5E0922927BA6300AA2C61 /* dev5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dev5.swift; sourceTree = "<group>"; };
-		BDD5E0942927C58300AA2C61 /* dsfdf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dsfdf.swift; sourceTree = "<group>"; };
-		BDD5E0962927C85600AA2C61 /* fsfseaf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fsfseaf.swift; sourceTree = "<group>"; };
-		BDEC1C89292B4CEF00EF007F /* 錢包.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "錢包.swift"; sourceTree = "<group>"; };
-		BDEC1C87292B4CCE00EF007F /* 極速約單.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "極速約單.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,14 +59,6 @@
 				BDD5E0762927B4FA00AA2C61 /* AppDelegate.swift */,
 				BDD5E0782927B4FA00AA2C61 /* SceneDelegate.swift */,
 				BDD5E07A2927B4FA00AA2C61 /* ViewController.swift */,
-				BDD5E08C2927B87000AA2C61 /* bug2.swift */,
-				BDD5E0922927BA6300AA2C61 /* dev5.swift */,
-				BDD5E08E2927B95800AA2C61 /* momom.swift */,
-				BDEC1C87292B4CCE00EF007F /* 極速約單.swift */,
-				BDD5E0902927BA2800AA2C61 /* bugfix.swift */,
-				BDD5E0962927C85600AA2C61 /* fsfseaf.swift */,
-				BDEC1C89292B4CEF00EF007F /* 錢包.swift */,
-				BDD5E0942927C58300AA2C61 /* dsfdf.swift */,
 				BDD5E07C2927B4FA00AA2C61 /* Main.storyboard */,
 				BDD5E07F2927B4FA00AA2C61 /* Assets.xcassets */,
 				BDD5E0812927B4FA00AA2C61 /* LaunchScreen.storyboard */,
@@ -162,17 +138,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BDD5E0912927BA2800AA2C61 /* bugfix.swift in Sources */,
-				BDD5E08F2927B95800AA2C61 /* momom.swift in Sources */,
-				BDD5E0932927BA6300AA2C61 /* dev5.swift in Sources */,
 				BDD5E07B2927B4FA00AA2C61 /* ViewController.swift in Sources */,
-				BDD5E08D2927B87000AA2C61 /* bug2.swift in Sources */,
-				BDD5E0952927C58300AA2C61 /* dsfdf.swift in Sources */,
-				BDD5E0972927C85600AA2C61 /* fsfseaf.swift in Sources */,
 				BDD5E0772927B4FA00AA2C61 /* AppDelegate.swift in Sources */,
-				BDEC1C8A292B4CEF00EF007F /* 錢包.swift in Sources */,
 				BDD5E0792927B4FA00AA2C61 /* SceneDelegate.swift in Sources */,
-				BDEC1C88292B4CCE00EF007F /* 極速約單.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
