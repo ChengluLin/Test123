@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD42DA6829515ED00095DCFB /* 開發中.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD42DA6729515ED00095DCFB /* 開發中.swift */; };
 		BDD5E0772927B4FA00AA2C61 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD5E0762927B4FA00AA2C61 /* AppDelegate.swift */; };
 		BDD5E0792927B4FA00AA2C61 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD5E0782927B4FA00AA2C61 /* SceneDelegate.swift */; };
 		BDD5E07B2927B4FA00AA2C61 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD5E07A2927B4FA00AA2C61 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BD42DA6729515ED00095DCFB /* 開發中.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "開發中.swift"; sourceTree = "<group>"; };
 		BDD5E0732927B4FA00AA2C61 /* Test123.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test123.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDD5E0762927B4FA00AA2C61 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BDD5E0782927B4FA00AA2C61 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				BDD5E0782927B4FA00AA2C61 /* SceneDelegate.swift */,
 				BDD5E07A2927B4FA00AA2C61 /* ViewController.swift */,
 				BDEC1C91292B4F2900EF007F /* 錢包.swift */,
+				BD42DA6729515ED00095DCFB /* 開發中.swift */,
 				BDD5E07C2927B4FA00AA2C61 /* Main.storyboard */,
 				BDEC1C8F292B4F0F00EF007F /* 急速.swift */,
 				BDD5E07F2927B4FA00AA2C61 /* Assets.xcassets */,
@@ -146,6 +149,7 @@
 			files = (
 				BDD5E07B2927B4FA00AA2C61 /* ViewController.swift in Sources */,
 				BDD5E0772927B4FA00AA2C61 /* AppDelegate.swift in Sources */,
+				BD42DA6829515ED00095DCFB /* 開發中.swift in Sources */,
 				BDEC1C92292B4F2900EF007F /* 錢包.swift in Sources */,
 				BDD5E0792927B4FA00AA2C61 /* SceneDelegate.swift in Sources */,
 				BDEC1C90292B4F0F00EF007F /* 急速.swift in Sources */,
